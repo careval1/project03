@@ -1,3 +1,5 @@
+/* Global page styles */
+
 body {
   font-family: Arial, sans-serif;
   background-color: #ffffff;
@@ -6,15 +8,21 @@ body {
   margin: 0;
 }
 
+/* Header styles */
+
 header {
   background-color: #003366;
   color: #ffffff;
   padding: 1rem;
 }
 
+/* Main content styles */
+
 main {
   padding: 1rem;
 }
+
+/* Table styles */
 
 table {
   width: 100%;
@@ -37,14 +45,19 @@ th {
   background-color: #e6e6e6;
 }
 
+/* Link styles */
+
 a {
   color: #003366;
 }
 
+/* Focus and hover styles for accessibility */
 a:focus,
 a:hover {
   background-color: #cccccc;
 }
+
+/* Footer styles */
 
 footer {
   background-color: #f2f2f2;
